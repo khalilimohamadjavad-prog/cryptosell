@@ -1,0 +1,17 @@
+{
+    "symbols": [
+        "bitcoin",
+        "ethereum",
+        "solana",
+        "beat-token",
+        "ripple"
+    ],
+    "timeframes": [
+        "1h",
+        "4h",
+        "1d"
+    ],
+    "drop_threshold_pct": 15,
+    "lookback_days": 7,
+    "use_cryptocompare": true
+}

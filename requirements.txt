@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+mplfinance
+matplotlib
+customtkinter
+python-dateutil
+pyinstaller==6.2
+pillow
